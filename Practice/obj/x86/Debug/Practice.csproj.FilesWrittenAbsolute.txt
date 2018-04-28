@@ -1,0 +1,5 @@
+/Users/tarzx/Projects/Solution.Practice/Practice/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/tarzx/Projects/Solution.Practice/Practice/bin/Debug/Practice.exe.mdb
+/Users/tarzx/Projects/Solution.Practice/Practice/bin/Debug/Practice.exe
+/Users/tarzx/Projects/Solution.Practice/Practice/obj/x86/Debug/Practice.exe
+/Users/tarzx/Projects/Solution.Practice/Practice/obj/x86/Debug/Practice.exe.mdb

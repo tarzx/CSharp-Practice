@@ -1,0 +1,17 @@
+﻿<Properties StartupItem="Practice/Practice.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Practice/FlowControl.cs">
+    <Files>
+      <File FileName="Practice/FirstProgram.cs" Line="8" Column="4" />
+      <File FileName="Practice/FlowControl.cs" Line="40" Column="6" />
+      <File FileName="Practice/ArrayStructure.cs" Line="29" Column="14" />
+      <File FileName="Practice/Function.cs" Line="207" Column="38" />
+      <File FileName="Practice/teacherClass.cs" Line="7" Column="5" />
+      <File FileName="Practice/manageFile.cs" Line="42" Column="28" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
